@@ -1,0 +1,24 @@
+{
+  "name": "angiegigi94.github.io",
+  "version": "0.0.1",
+  "description": "gigi's blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "git subtree push --prefix public origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngieGigi94/angiegigi94.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngieGigi94/angiegigi94.github.io/issues"
+  },
+  "homepage": "https://github.com/AngieGigi94/angiegigi94.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
