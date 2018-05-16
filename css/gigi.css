@@ -50,8 +50,8 @@ html, body {
 }
 
 .overlay {
-	background-color: #000;
-	opacity: .85;
+	background-color: #f00;
+	opacity: .65;
 	position: absolute;
 	top: 0;
 	left: 0;
