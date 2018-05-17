@@ -50,8 +50,8 @@ html, body {
 }
 
 .overlay {
-	background-color: #f00;
-	opacity: .65;
+	background-color: #f02872;
+	opacity: .55;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -155,7 +155,7 @@ html, body {
 }
 
 .navbar.main-navbar.bg-dark {
-	background-color: #000 !important;
+	background-color: #3f465a !important;
 }
 
 .navbar.main-navbar .navbar-brand {
@@ -166,6 +166,7 @@ html, body {
 
 .navbar.main-navbar .navbar-brand img {
 	width: 100%;
+	margin: -30px 0;
 }
 
 .navbar.main-navbar .nav-link {
